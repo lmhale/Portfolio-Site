@@ -1,0 +1,19 @@
+
+
+.about-container{
+ margin:12px;
+}
+
+p {
+  font-size: 12px;
+  margin:20px;
+
+}
+
+
+.profPic {
+  width: 100px;
+  height: 108px;
+  margin-left:200px;
+  border-radius: 60%;
+}

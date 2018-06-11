@@ -1,0 +1,41 @@
+
+
+#desktop{
+
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     /* border-bottom: .2px solid grey;
+     */
+
+}
+
+
+hr {
+  margin-top: 2px;
+}
+
+span {
+  color:pink;
+}
+
+ h3 {
+  font-size: 10px;
+  margin-top: 26px;
+  margin-left: -10px;
+  color: grey;
+
+}
+#desktop a:hover{
+text-decoration: underline;
+text-decoration-color: pink;
+}
+
+#desktop .flex-item{
+  margin-top: 15px;
+
+  text-decoration:none;
+  padding: 10px;
+  color:grey;
+  font-size: 10px;
+}
